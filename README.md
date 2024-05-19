@@ -1,5 +1,4 @@
-# LEPD
-Low-Cost Edge-Aware Polarizaition Demosaicking
+# LEPD: Low-Cost Edge-Aware Polarizaition Demosaicking
 
 This repository is for the paper “Efficient Polarization Demosaicking using Low-Cost Edge-Aware and Inter-Channel Correlation”.
 
