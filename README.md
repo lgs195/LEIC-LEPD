@@ -5,6 +5,6 @@ This repository is for the paper “Efficient Polarization Demosaicking using Lo
 Details will be made public when the article is published.
 
 ### Contact
-Guangsen Liu (email:liuguangsen20@mails.ucas.ac.cn)
+Guangsen Liu (email: liuguangsen20@mails.ucas.ac.cn)
 
 Feel free to contact us if you have any related questions.
