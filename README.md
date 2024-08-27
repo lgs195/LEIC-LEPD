@@ -5,6 +5,9 @@ This repository is for the paper “Efficient Polarization Demosaicking using Lo
 Details will be made public when the article is published.
 
 <img src="https://github.com/lgs195/LEIC-LEPD/blob/main/images/PFA_CFA.png" width="500px">
+<img src="https://github.com/lgs195/LEIC-LEPD/blob/main/images/LEIC.png" width="500px">
+<img src="https://github.com/lgs195/LEIC-LEPD/blob/main/images/dataset3.png" width="500px">
+<img src="https://github.com/lgs195/LEIC-LEPD/blob/main/images/pola_demosaic.png" width="500px">
 
 ### Contact
 Guangsen Liu (email: liuguangsen20@mails.ucas.ac.cn)
