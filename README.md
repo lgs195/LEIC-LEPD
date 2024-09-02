@@ -1,6 +1,7 @@
 # LEIC:  Low-cost Edge-aware & Inter-channel Correlation Polarization Demosaicking
 
 This repository is for the paper “Efficient Polarization Demosaicking using Low-Cost Edge-Aware and Inter-Channel Correlation”.
+Arxiv: https://arxiv.org/abs/2408.17099v1
 
 Details will be made public when the article is published.
 
