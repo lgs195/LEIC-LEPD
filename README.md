@@ -2,7 +2,7 @@
 
 This repository is for the paper “Efficient Polarization Demosaicking using Low-Cost Edge-Aware and Inter-Channel Correlation”.
 
-Arxiv: https://arxiv.org/abs/2408.17099v1
+Arxiv DOI: https://doi.org/10.48550/arXiv.2408.17099
 
 Details will be made public when the article is published.
 
