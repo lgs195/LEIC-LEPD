@@ -6,7 +6,7 @@ Arxiv DOI: https://doi.org/10.48550/arXiv.2408.17099
 
 Please download dataset here: https://drive.google.com/file/d/1jsK8Mi0TI5dFNiQFWD6yJ3tu9ebcs3uY/view?usp=sharing
 
-Run demo_real_LWIR_DoFP.m or demo_real_VIS_DoFP.m and start demosaicking!
+Run demo_real_LWIR_DoFP.m (demo_real_VIS_DoFP.m) and start demosaicking!
 
 <img src="https://github.com/lgs195/LEIC-LEPD/blob/main/images/PFA_CFA.png" width="500px">
 <img src="https://github.com/lgs195/LEIC-LEPD/blob/main/images/dataset3.png" width="500px">
